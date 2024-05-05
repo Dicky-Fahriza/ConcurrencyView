@@ -5,7 +5,7 @@ Practice projects create concurrency view
 
 ## Screen Shoot
 
-![App Screenshot](https://res.cloudinary.com/dyhiieqlt/image/upload/v1714918731/Screenshot_2024-05-05_at_20.56.26_vfwzew.png)
+![App Screenshot](https://res.cloudinary.com/dyhiieqlt/image/upload/v1714919416/Screenshot_2024-05-05_at_21.27.20_grs1em.png)
 ## Authors
 
 - [@dickyfahriza](https://www.github.com/dicky-fahriza)
